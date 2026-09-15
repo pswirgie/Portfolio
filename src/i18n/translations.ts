@@ -3,7 +3,7 @@ export const translations = {
 		hero: {
 		welcome: "Bienvenue !",
 		imTitle: "Je suis",
-		role: "Développeuse web",
+		role: "Développeuse web Fullstack",
 		aboutMeLabel: "À propos de moi",
 		aboutMeText: [
 			"Je suis étudiante à 42 Angoulême, où j’apprends principalement par la documentation, l’expérimentation et la réalisation de projets concrets.",
@@ -74,7 +74,7 @@ export const translations = {
 		hero: {
 		welcome: "Welcome !",
 		imTitle: "I'm",
-		role: "Web developer · exploring data & AI",
+		role: "Web developer Fullstack",
 		aboutMeLabel: "About me",
 		aboutMeText: [
 			"I am a student at 42 Angoulême, where I learn primarily through documentation, experimentation, and hands-on projects.",
