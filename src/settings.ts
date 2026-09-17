@@ -14,7 +14,7 @@ export const social = {
 	linkedin: 'https://www.linkedin.com/in/pauline-swirgiel/',
 	x: '',
 	bluesky: '',
-	github: 'https://github.com/Pchamallow',
+	github: 'https://github.com/pswirgie',
 	gitlab: '',
 	scholar: '',
 	inspire: '',
