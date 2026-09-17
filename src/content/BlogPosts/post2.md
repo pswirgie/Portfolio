@@ -3,6 +3,7 @@ title: "Animshell"
 date: "2026-04-26"
 endDate: "2026-06-14"
 duration: "~2 mois"
+statut: "finish"
 tags: ["Système", "C"]
 excerpt: "An account of the discovery of radium and its properties."
 ---
