@@ -5,7 +5,7 @@ endDate: "2027-03-01"
 duration: "8 mois"
 statut: ""
 tags: ["Web", "Data"]
-excerpt: ""
+excerpt: "A dating web application built with micro-framework"
 ---
 
 🚧 **Projet en cours** 🚧

@@ -5,7 +5,7 @@ endDate: "2026-06-14"
 duration: "~2 mois"
 statut: "finish"
 tags: ["Système", "C"]
-excerpt: ""
+excerpt: "A minimal shell inspired by Bash"
 ---
 
 ✅ **Projet terminé**
