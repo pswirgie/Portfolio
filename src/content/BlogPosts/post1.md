@@ -11,7 +11,7 @@ excerpt: "An account of the discovery of radium and its properties."
 🚧 **Projet en cours** 🚧
 <br>*Certifié sans clowns*
 
-[![](../../assets/clownder.png)](https://vimeo.com/1222714021?share=copy&fl=sv&fe=ci)
+<!-- [![](../../assets/clownder.png)](https://vimeo.com/1222714021?share=copy&fl=sv&fe=ci) -->
 
 
 

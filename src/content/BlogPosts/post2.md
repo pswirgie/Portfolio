@@ -10,7 +10,7 @@ excerpt: "An account of the discovery of radium and its properties."
 
 ✅ **Projet terminé**
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
+<!-- [![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ) -->
 
 
 Animshell est une réimplémentation simplifiée du shell Bash, développée en C dans le cadre du cursus 42.
