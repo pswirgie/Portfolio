@@ -5,7 +5,7 @@ endDate: "2027-03-01"
 duration: "8 mois"
 statut: ""
 tags: ["Web", "Data"]
-excerpt: "An account of the discovery of radium and its properties."
+excerpt: ""
 ---
 
 🚧 **Projet en cours** 🚧

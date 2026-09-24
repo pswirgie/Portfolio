@@ -5,7 +5,7 @@ endDate: "2026-06-14"
 duration: "~2 mois"
 statut: "finish"
 tags: ["Système", "C"]
-excerpt: "An account of the discovery of radium and its properties."
+excerpt: ""
 ---
 
 ✅ **Projet terminé**
