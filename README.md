@@ -1,3 +1,4 @@
+<p id="top"></p>
 <div align="center">
 
 # Portfolio
@@ -25,11 +26,17 @@ A personal portfolio website built with Astro and Tailwind CSS, showcasing my pr
   - [Roadmap](#roadmap)
   - [Acknowledgments](#acknowledgments)
 
+<!-- new line -->
+<br>
+
 ## Description
 
 This repository contains the source code of my personal portfolio. It is built on top of [**astro_academia**](https://github.com/maiobarbero/astro_academia), an open-source Astro template by [Matteo Barbero](https://maiobarbero.dev), originally designed for academic websites.
 
 I have significantly customized the template to turn it into a portfolio tailored to a developer profile: new visual identity, reorganized content, a dedicated tech stack section and a downloadable CV.
+
+<!-- new line -->
+<br>
 
 ## Features added
 
@@ -42,6 +49,10 @@ Compared to the original template, I added and reworked the following:
 - **CV page with PDF download:** a button lets visitors download my CV directly.
 - **Reorganized sections:** content restructured to highlight my projects and skills.
 
+[back to top](#top)
+<!-- new line -->
+<br>
+
 ## Tech Stack 
 
 [![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=fff)](#)
@@ -53,7 +64,9 @@ Compared to the original template, I added and reworked the following:
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)](#)
 
-
+[back to top](#top)
+<!-- new line -->
+<br>
 
 ## Getting Started
 
@@ -62,6 +75,11 @@ Compared to the original template, I added and reworked the following:
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/) and npm (the required version is specified in `.nvmrc`)
 - [nvm](https://github.com/nvm-sh/nvm) (recommended, to match the Node version)
+
+
+[back to top](#top)
+<!-- new line -->
+<br>
 
 ## Instructions
 
@@ -88,6 +106,9 @@ Compared to the original template, I added and reworked the following:
    npm run dev
 ```
 
+[back to top](#top)
+<!-- new line -->
+<br>
 
 ## Project Structure
 
@@ -101,9 +122,20 @@ Compared to the original template, I added and reworked the following:
 └── package.json
 ```
 
+[back to top](#top)
+<!-- new line -->
+<br>
+
+
 ## Deployment
 
 The site is deployed automatically to **GitHub Pages** through a **GitHub Actions** workflow (see `.github/workflows/`). Every push to the `main` branch triggers a new build and deployment.
+
+
+[back to top](#top)
+<!-- new line -->
+<br>
+
 
 ## Roadmap
 
@@ -111,8 +143,14 @@ The site is deployed automatically to **GitHub Pages** through a **GitHub Action
 - [ ] Add detailed project pages with screenshots
 - [ ] Improve accessibility and SEO
 
+[back to top](#top)
+<!-- new line -->
+<br>
+
 
 ## Acknowledgments
 
 This project is based on [**astro_academia**](https://github.com/maiobarbero/astro_academia) by [Matteo Barbero](https://maiobarbero.dev). Many thanks for the excellent foundation.
+
+[back to top](#top)
 
