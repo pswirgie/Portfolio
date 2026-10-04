@@ -6,8 +6,9 @@ export const translations = {
 		role: "Développeuse web Fullstack",
 		aboutMeLabel: "À propos de moi",
 		aboutMeText: [
-			"Je suis étudiante à 42 Angoulême, où j’apprends principalement par la documentation, l’expérimentation et la réalisation de projets concrets.",
-			"Actuellement, je me concentre principalement sur le développement logiciel et web. Je souhaite également élargir progressivement mes compétences vers la data et l’intelligence artificielle, qui font partie des domaines que je souhaite explorer et développer dans la suite de mon parcours.",
+			"- Je suis étudiante à 42 Angoulême, où j’apprends principalement par la documentation, l’expérimentation et la réalisation de projets concrets.",
+			"- Actuellement, je me concentre principalement sur le développement logiciel et web. Je souhaite également élargir progressivement mes compétences vers la data et l’intelligence artificielle, qui font partie des domaines que je souhaite explorer et développer dans la suite de mon parcours.",
+			"- Capable de travailler avec ou sans outils d'IA, selon les besoins et les consignes de l'entreprise.",
 		],
 		search : {
 			main: "🎯 En recherche d'un stage (4 à 6 mois) ou d'une alternance (2 ans) en vue d'un RNCP 7 (Bac + 5 / Master) - Web, Data ou IA",
@@ -24,12 +25,12 @@ export const translations = {
 			goals: {
 				title: "Buts",
 				goal1: "Valider le tronc commun",
-				goal2: "Faire un site de rencontres en Web/Data",
+				goal2: "Commencer la réalisation d'un site de rencontres en Web/Data",
 				goal3: "Réaliser des projets en IA et Machine learning",
 				goal4: "Approfondir mes connaissances en docker"
 			},
 			cc: {
-				date: "Octobre 2025 - Novembre 2026",
+				date: "Octobre 2025 - Décembre 2026",
 				duration: "1 an 1 mois",
 				title: "",
 				description: "Projets du tronc commun de 42",
@@ -61,7 +62,7 @@ export const translations = {
 				langages: "",
 			},
 			matcha: {
-				date: "",
+				date: "En 2027, projects terminés:",
 				duration: "",
 				title: "Matcha",
 				description: "Une application web de rencontres conçue pour faciliter les connexions entre partenaires potentiels, couvrant l'ensemble du parcours utilisateur, de l'inscription jusqu'à la rencontre finale.",
@@ -77,8 +78,9 @@ export const translations = {
 		role: "Web developer Fullstack",
 		aboutMeLabel: "About me",
 		aboutMeText: [
-			"I am a student at 42 Angoulême, where I learn primarily through documentation, experimentation, and hands-on projects.",
-			"Currently, my main focus is software and web development. I also plan to progressively expand my skills into data and artificial intelligence, as these are areas I am interested in exploring and developing throughout my career.",
+			"- I am a student at 42 Angoulême, where I learn primarily through documentation, experimentation, and hands-on projects.",
+			"- Currently, my main focus is software and web development. I also plan to progressively expand my skills into data and artificial intelligence, as these are areas I am interested in exploring and developing throughout my career.",
+			"- Comfortable working with or without AI tools, depending on project needs and company guidelines.",
 		],
 		search : {
 			main: "🎯 Looking for an internship (4/6 months) or an alternance (2 years) - Web, Data or AI",
@@ -94,14 +96,14 @@ export const translations = {
 		},
 		roadmap: {
 			goals: {
-				title: "Buts",
-				goal1: "Valider le tronc commun",
-				goal2: "Faire un site de rencontres en Web/Data",
-				goal3: "Réaliser des projets en IA et Machine learning",
-				goal4: "Approfondir mes connaissances en docker"
+				title: "Goals",
+				goal1: "Complete the core curriculum",
+				goal2: "Start building a web/data dating website",
+				goal3: "Work on AI and machine learning projects",
+				goal4: "Deepen my knowledge of Docke"
 			},
 			cc: {
-				date: "October 2025 - November 2026",
+				date: "October 2025 - December 2026",
 				duration: "1 year 1 month",
 				title: "",
 				description: "All projects of common core 42",
@@ -133,7 +135,7 @@ export const translations = {
 				langages: "",
 			},
 			matcha: {
-				date: "",
+				date: "In 2027, projects finished:",
 				duration: "",
 				title: "Matcha",
 				description: "A dating web application designed to facilitate connections between potential partners, covering the entire user journey from registration to the final meeting.",

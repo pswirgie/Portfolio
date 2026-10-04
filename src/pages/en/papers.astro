@@ -1,0 +1,17 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import { publications } from "@/data/research";
+import { highlightAuthor } from "@/lib/utils";
+import {template} from "@/settings";
+import TechStack from '@/components/ui/TechStack.astro';
+
+const ALL_PAPERS = publications; // This will be replaced with dynamic data later
+---
+
+<Layout title="Papers">
+	<div>
+		<h1 class='text-6xl mb-4 font-[family-name:var(--font-monsieur-la-doulaise)]'>Tech stack</h1>
+			<section class='py-12 border-b'>
+				<TechStack />
+	</div>
+</Layout>
