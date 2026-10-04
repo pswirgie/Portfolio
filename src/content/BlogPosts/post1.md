@@ -13,8 +13,7 @@ excerpt: "A dating web application built with micro-framework"
 
 <!-- [![](../../assets/clownder.png)](https://vimeo.com/1222714021?share=copy&fl=sv&fe=ci) -->
 
-[Github / Code](https://github.com/pswirgie/matcha)
-
+🔗 [GitHub / Code](https://github.com/pswirgie/matcha)
 
 Clownder est une application web de rencontre conçue pour faciliter les connexions entre partenaires potentiels, couvrant tout le parcours utilisateur — de l'inscription à la rencontre finale.
 

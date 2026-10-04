@@ -12,8 +12,7 @@ excerpt: "A minimal shell inspired by Bash"
 
 <!-- [![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ) -->
 
-[Github / Code](https://github.com/pswirgie/Animshell)
-
+🔗 [Github / Code](https://github.com/pswirgie/Animshell)
 
 Animshell est une réimplémentation simplifiée du shell Bash, développée en C dans le cadre du cursus 42.
 L'objectif : reconstruire le comportement d'un shell Unix — lecture de commandes, exécution de processus,
