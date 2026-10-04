@@ -5,7 +5,8 @@ endDate: "2026-06-14"
 duration: "~2 months"
 statut: "finish"
 tags: ["System", "C"]
-excerpt: "A minimal shell inspired by Bash"
+excerpt: "Une réimplémentation simplifiée du shell Bash en C"
+excerptEn: "A minimal shell inspired by Bash"
 ---
 
 ✅ **Projet terminé**

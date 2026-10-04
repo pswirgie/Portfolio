@@ -1,12 +1,3 @@
----
-title: "Animshell"
-date: "2026-04-26"
-endDate: "2026-06-14"
-duration: "~2 months"
-statut: "finish"
-tags: ["System", "C"]
-excerpt: "A minimal shell inspired by Bash"
----
 
 ✅ **Project completed**
 
