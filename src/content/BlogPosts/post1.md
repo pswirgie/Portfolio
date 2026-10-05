@@ -12,7 +12,7 @@ excerptEn: "A dating web application built with micro-framework"
 🚧 **Projet en cours** 🚧
 <br>*Certifié sans clowns*
 
-<!-- [![](../../assets/clownder.png)](https://vimeo.com/1222714021?share=copy&fl=sv&fe=ci) -->
+[![](../../assets/clownder.png)](https://vimeo.com/1222714021?share=copy&fl=sv&fe=ci)
 
 🔗 [GitHub / Code](https://github.com/pswirgie/matcha)
 
