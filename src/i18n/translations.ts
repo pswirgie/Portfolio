@@ -24,10 +24,12 @@ export const translations = {
 		roadmap: {
 			goals: {
 				title: "Buts",
+				titleSince: "D 'ici Janvier 2027:",
 				goal1: "Valider le tronc commun",
 				goal2: "Commencer la réalisation d'un site de rencontres en Web/Data",
 				goal3: "Réaliser des projets en IA et Machine learning",
-				goal4: "Approfondir mes connaissances en docker"
+				goal4: "Approfondir mes connaissances en docker",
+				title2027: "En 2027, projects terminés:"
 			},
 			cc: {
 				date: "Octobre 2025 - Décembre 2026",
@@ -38,7 +40,7 @@ export const translations = {
 				langages: "C, C++",
 			},
 			linearRegression: {
-				date: "Novembre 2026",
+				date: "Janvier 2027",
 				duration: "2 semaines",
 				title: "Linear Regression",
 				description: "Un algorithme de machine learning qui prédit le prix d'une voiture en utilisant une fonction linéaire entraînée avec un algorithme de descente de gradient.",
@@ -46,7 +48,7 @@ export const translations = {
 				langages: "Python",
 			},
 			learnTwoSlither: {
-				date: "Novembre - Décembre 2026",
+				date: "Février 2027",
 				duration: "3 semaines",
 				title: "Learn 2 Slither",
 				description: "Un projet de pointe en Q-learning axé sur la prise de décision autonome dans un environnement dynamique.",
@@ -62,7 +64,7 @@ export const translations = {
 				langages: "",
 			},
 			matcha: {
-				date: "En 2027, projects terminés:",
+				date: "",
 				duration: "",
 				title: "Matcha",
 				description: "Une application web de rencontres conçue pour faciliter les connexions entre partenaires potentiels, couvrant l'ensemble du parcours utilisateur, de l'inscription jusqu'à la rencontre finale.",
@@ -97,10 +99,12 @@ export const translations = {
 		roadmap: {
 			goals: {
 				title: "Goals",
+				titleSince: "By January 2027:",
 				goal1: "Complete the core curriculum",
 				goal2: "Start building a web/data dating website",
 				goal3: "Work on AI and machine learning projects",
-				goal4: "Deepen my knowledge of Docke"
+				goal4: "Deepen my knowledge of Docker",
+				title2027: "In 2027, projects finished:"
 			},
 			cc: {
 				date: "October 2025 - December 2026",
@@ -111,7 +115,7 @@ export const translations = {
 				langages: "C, C++",
 			},
 			linearRegression: {
-				date: "November 2026",
+				date: "January 2027",
 				duration: "2 weeks",
 				title: "Linear Regression",
 				description: "A machine learning algorithm that predicts the price of a car by using a linear function train with a gradient descent algorithm.",
@@ -119,7 +123,7 @@ export const translations = {
 				langages: "Python",
 			},
 			learnTwoSlither: {
-				date: "November - December 2026",
+				date: "February 2027",
 				duration: "3 weeks",
 				title: "Learn 2 Slither",
 				description: "A cutting-edge Q-learning project focused on autonomous decision-making in a dynamic environment.",
@@ -127,7 +131,7 @@ export const translations = {
 				langages: "Python",
 			},
 			inceptionOfThings: {
-				date: " 2026",
+				date: "2027",
 				duration: " weeks",
 				title: "",
 				description: "Built and configured a Docker-based cluster, along with a fully functional continuous integration (CI) pipeline for application development and testing.",
@@ -135,7 +139,7 @@ export const translations = {
 				langages: "",
 			},
 			matcha: {
-				date: "In 2027, projects finished:",
+				date: "",
 				duration: "",
 				title: "Matcha",
 				description: "A dating web application designed to facilitate connections between potential partners, covering the entire user journey from registration to the final meeting.",
