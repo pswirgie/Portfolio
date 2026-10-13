@@ -3,6 +3,7 @@ import type { ImageMetadata } from 'astro';
 import { Image } from 'astro:assets'
 import { translations, type Lang } from '../../i18n/translations';
 import SocialIcons from './SocialIcons.astro';
+import TechStack from '@/components/ui/TechStack.astro';
 
 interface Props {
 	lang: Lang;
@@ -54,6 +55,8 @@ const t = translations[lang].hero;
 	<p class='text-xl mb-6 font-[family-name:var(--font-manrope)]'>
 		{t.onSiteText}
 	</p>
+	<br>
+	<TechStack />
 </div>
 <div class='size-72 lg:block hidden'>
 	<!-- Add your profile image -->
@@ -62,4 +65,5 @@ const t = translations[lang].hero;
 		alt={fullName}
 		class='w-full h-full mask mask-circle size-44'
 	/>
+
 </div>
