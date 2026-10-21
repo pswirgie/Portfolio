@@ -22,6 +22,8 @@ Clownder est une application web de rencontre conçue pour faciliter les connexi
 Ceci est un **projet de spécialisation** (nommé par défaut Matcha), commencé de façon proactive pendant le tronc commun de 42.
 
 #### Mes réalisations :
+- Requêtes et manipulations database
+- Création / utilisation API
 - Connexion / authentification
 - Cookie
 - Sécurisation des mots de passe (hachage)

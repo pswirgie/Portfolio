@@ -22,6 +22,8 @@ Clownder is a dating web application designed to help potential partners connect
 This is a **specialization project** (named Matcha by default), which I started proactively during the 42 common core.
 
 #### My contributions:
+- Database queries and data manipulation
+- API development and integration
 - Login / authentication
 - Cookies
 - Password security (hashing)
