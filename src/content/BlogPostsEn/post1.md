@@ -1,5 +1,5 @@
 ---
-title: "Clownder"
+title: "Matcha (Clownder)"
 date: "2026-08-03"
 endDate: "2027-06-01"
 duration: "10 months"
@@ -12,7 +12,7 @@ excerptEn: ""
 🚧 **Work in Progress** 🚧
 <br>*Certified clown-free*
 
-<!-- [![](../../assets/clownder.png)](https://vimeo.com/1222714021?share=copy&fl=sv&fe=ci) -->
+[![](../../assets/clownder.png)](https://vimeo.com/1222714021?share=copy&fl=sv&fe=ci)
 
 🔗 [GitHub / Code](https://github.com/pswirgie/matcha)
 
