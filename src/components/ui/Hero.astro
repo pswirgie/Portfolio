@@ -25,7 +25,8 @@ const t = translations[lang].hero;
 	<p class='text-2xl font-bold mb-9 font-[family-name:var(--font-playfair-display)]'>
 		{t.role}
 	</p>
-	<p class='text-xl font-bold mb-2 font-[family-name:var(--font-manrope)]'>
+
+	<p class='text-2xl font-bold mb-2 font-[family-name:var(--font-manrope)]'>
 		{t.aboutMeLabel} <br>
 	</p>
 	<p class='text-xl mb-5 font-[family-name:var(--font-manrope)]'>
@@ -49,13 +50,46 @@ const t = translations[lang].hero;
 	<div class='flex gap-4 mb-6'>
 		<SocialIcons />
 	</div>
-	<p class='text-xl font-bold mb-2 font-[family-name:var(--font-manrope)]'>
+
+	<p class='text-2xl font-bold mb-2 font-[family-name:var(--font-manrope)]'>
 		{t.onSiteLabel}
 	</p>
 	<p class='text-xl mb-6 font-[family-name:var(--font-manrope)]'>
 		{t.onSiteText}
 	</p>
 	<br>
+
+	<p class='text-2xl font-bold mb-2 font-[family-name:var(--font-manrope)]'>
+		{t.exp3D.title}
+	</p>
+	<p class='italic'> {t.exp3D.intro} </p> 
+	<br>
+
+	<div class='text-xl font-bold'> Professionnelle </div>
+	{t.exp3D.professionnelle.map(({ title, text }) => (
+		<li><span class='font-bold'>{title} : </span> {text}</li>
+	))}
+	<br>
+
+	<div class='text-xl font-bold'> Travail d'équipe, projet de fin d'études </div>
+	{t.exp3D.leadModIntro}
+	{t.exp3D.leadModAtouts.map(({ title, text }) => (
+		<li><span class='font-bold'>{title} : </span> {text}</li>
+	))}
+	lien video
+	<br><br>
+
+	<div class='text-xl font-bold'> Atouts personnels </div>
+	{t.exp3D.atoutsPerso.map(({ title, text }) => (
+		<li><span class='font-bold'>{title} : </span> {text}</li>
+	))}
+	<br>
+
+	<div class='text-xl font-bold'> Etudes </div>
+	{t.exp3D.etudes}
+
+	<br><br><br>
+
 	<TechStack />
 </div>
 <div class='size-72 lg:block hidden'>
