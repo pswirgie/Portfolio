@@ -2,7 +2,7 @@ export const translations =
 {
 	fr:
 	{
-		hero:
+		content:
 		{
 			welcome: "Bienvenue !",
 			imTitle: "Je suis",
@@ -20,8 +20,9 @@ export const translations =
 			},
 			onSiteLabel: "Sur ce site",
 			onSiteText: "Vous pourrez explorer mon CV, ma tech stack, mes projets, et ma roadmap (web, data, IA). Chaque page projet inclut l'objectif, les compétences utilisées, une vidéo d'exploration, et un lien vers le repo GitHub.",
-			exp3D: {
-				title: "Expériences",
+			exp3D:
+			{
+				title: "Parcours en infographie 3D",
 				intro: "Mon parcours en 3D m’a appris à tenir des deadlines, à documenter mes procédés et à soigner le détail visuel : des réflexes que je transpose au développement web.",
 				etudes: "4 ans d'études en infographie 3D, dont 3 ans de projets en équipe nécessitant organisation, coordination et respect des délais",
 				atoutsPerso: [
@@ -39,11 +40,11 @@ export const translations =
 				],
 				keywords: "Documentation, Planification, Communication, Autonomie, Travail en équipe",
 				professionnelle: [
-					{ title: "IDscene (6 mois, full remote)", text: "création d'un court-métrage pour une projection monumentale sur bâtiment à Noël. Communication quotidienne avec la chargée de projet via Discord, visio et WhatsApp."},
+					{ title: "IDscene (5 mois, full remote)", text: "création d'un court-métrage pour une projection monumentale sur bâtiment à Noël. Communication quotidienne avec la chargée de projet via Discord, visio et WhatsApp."},
 				],
 			},
 			cv: {
-			download: "Télécharger",
+				download: "Télécharger",
 			},
 			roadmap: {
 				goals: {
@@ -100,7 +101,7 @@ export const translations =
 	},
 	en:
 	{
-		hero:
+		content:
 		{
 			welcome: "Welcome !",
 			imTitle: "I'm",
@@ -122,26 +123,29 @@ export const translations =
 			onSiteText: "You can explore my CV, my tech stack, my projects and my roadmap for what's in progress and coming next (web, data, AI). Each project page includes the goal, the skills involved, demo videos, and a link to the GitHub repo.",
 			exp3D:
 			{
-				title: "Expériences",
-				etudes: "4 ans d'études en infographie 3D dont 3 ans avec des plusieurs projets de groupes qui ont requis organisation",
-				softskill: [
-					"- Je prends le temps de me documenter pour bien comprendre chaque sujet.",
-					"- J'aime découvrir de nouveaux outils et sortir de ma zone de confort technique plutôt que répéter les mêmes tâches.",
-					"- Organisation, rigueur et obtention de résultats sont au cœur de mes priorités."
+				title: "Parcours en infographie 3D",
+				intro: "Mon parcours en 3D m’a appris à tenir des deadlines, à documenter mes procédés et à soigner le détail visuel : des réflexes que je transpose au développement web.",
+				etudes: "4 ans d'études en infographie 3D, dont 3 ans de projets en équipe nécessitant organisation, coordination et respect des délais",
+				atoutsPerso: [
+					{ title: "Organisation", text: "estimation du temps de réalisation d'un projet, time blocking quotidien, suivi du temps passé et objectifs hebdomadaires alignés sur les deadlines"},
+					{ title: "Autodidaxie", text: "je me documente pour comprendre en profondeur chaque sujet, puis je rédige ma propre documentation afin de conserver les connaissances acquises et de garder un suivi de mes apprentissages"},
+					{ title: "Curiosité", text: "j'aime découvrir de nouveaux outils et sortir de ma zone de confort technique plutôt que répéter les mêmes tâches."},
 				],
-				fullremote: "Mission de 6 mois en full remote pour IDscene : création d'un court-métrage pour une projection sur bâtiment à Noël",
-				leadMode: [
-					{ title: "Projet de fin d'études", text: "lead modélisation d'une équipe de 6 personnes, en collaboration avec le musicien Volkor X"},
-					{ title: "Collaboration avec un client", text: "écoute des besoins, proposition d'un panel de concepts, prise en compte des retours tout au long du projet"},
-					{ title: "Planification", text: "élaboration du planning de progression du projet et présentation à l'équipe"},
-					{ title: "Documentation", text: "rédaction et amélioration continue de la documentation d'équipe (supports pour décrire les procédés à suivre et détails techniques) à partir des retours de mes collègues, pour une compréhension optimale"},
+				leadModIntro: "Projet de fin d'études, lead modélisation d'une équipe de 6 personnes, en collaboration avec le musicien Volkor X",
+				leadModAtouts: [
+					{ title: "Planification et suivi", text: "élaboration du planning, présentation à l'équipe, réunions hebdomadaires de bilan et définition des objectifs de la semaine suivante"},
 					{ title: "Communication", text: "suivi de l'avancement auprès des membres de l'équipe afin de tenir, autant que possible, les deadlines prévues"},
-					{ title: "Suivi d'équipe", text: "réunions hebdomadaires avec bilan des résultats de la semaine écoulée et définition des objectifs de la semaine suivante"},
-					{ title: "Bilan projet fin d'études", text: "Projet ambitieux, dont le périmètre dépassait les capacités de l'équipe : vidéo finale complète réalisée, et leçons tirées sur l'estimation des charges et la priorisation des tâches"},
+					{ title: "Documentation", text: "rédaction et amélioration continue de supports décrivant les procédés et détails techniques, à partir des retours de mes collègues"},
+					{ title: "Collaboration avec un client", text: "écoute des besoins, proposition d'un panel de concepts, prise en compte des retours tout au long du projet"},
+					{ title: "Bilan", text: "projet ambitieux dépassant les capacités de l'équipe ; vidéo finale complète réalisée et leçons tirées sur l'estimation des charges et la priorisation"},
+				],
+				keywords: "Documentation, Planification, Communication, Autonomie, Travail en équipe",
+				professionnelle: [
+					{ title: "IDscene (5 mois, full remote)", text: "création d'un court-métrage pour une projection monumentale sur bâtiment à Noël. Communication quotidienne avec la chargée de projet via Discord, visio et WhatsApp."},
 				],
 			},
 			cv: {
-			download: "Download",
+				download: "Download",
 			},
 			roadmap: {
 				goals: {

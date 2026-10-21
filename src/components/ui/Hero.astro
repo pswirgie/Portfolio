@@ -13,7 +13,7 @@ interface Props {
 	profilePicture: ImageMetadata; 
 }
 const { lang, fullName, profilePicture } = Astro.props;
-const t = translations[lang].hero;
+const t = translations[lang].content;
 ---
 <div class='flex-1'>
 	<h1 class='text-6xl mb-4 font-[family-name:var(--font-monsieur-la-doulaise)]'>
@@ -76,7 +76,15 @@ const t = translations[lang].hero;
 	{t.exp3D.leadModAtouts.map(({ title, text }) => (
 		<li><span class='font-bold'>{title} : </span> {text}</li>
 	))}
-	lien video
+	<!-- <a
+		href="https://youtu.be/kCAan8gKJJM"
+		target="_blank"
+		rel="noopener noreferrer"
+		class="inline-flex items-center gap-2 hover:underline"
+		>
+		<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-link preview-icon" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
+		Voir la vidéo du projet
+	</a> -->
 	<br><br>
 
 	<div class='text-xl font-bold'> Atouts personnels </div>
