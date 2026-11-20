@@ -15,7 +15,7 @@ export const translations =
 			],
 			search: {
 				main: "🎯 En recherche d'un stage (4 à 6 mois) ou d'une alternance (2 ans) en vue d'un RNCP 7 (Bac + 5 / Master) - Web, Data ou IA",
-				disponibility: "Disponible dès Janvier 2027",
+				disponibility: "Disponible dès Avril 2027",
 				locations: "Angoulême, Bordeaux, Poitiers, Télétravail",
 			},
 			onSiteLabel: "Sur ce site",
@@ -115,7 +115,7 @@ export const translations =
 			search:
 			{
 				main: "🎯 Looking for an internship (4/6 months) or an alternance (2 years) - Web, Data or AI",
-				disponibility: "Available from January 2027",
+				disponibility: "Available from April 2027",
 				locations: "Angoulême, Bordeaux, Poitiers, Full remote",
 			},
 			availability: "",
